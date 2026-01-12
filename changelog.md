@@ -1,4 +1,6 @@
 # ChangeLog
+### BetterMenu V2.06
+* 2.2074
 ### BetterMenu V2.05
 * Fixed incompacts with qol
 * Popup when first installing the mod
