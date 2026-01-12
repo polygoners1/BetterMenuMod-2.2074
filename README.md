@@ -1,5 +1,5 @@
 # BetterMenu
-Wow very cool
+yeah ts broken rn
 
 # Contributors
 * camila314 - Clean Up of Main code and New use of UIBuilder
